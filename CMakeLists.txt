@@ -12,3 +12,4 @@ add_executable(UNIXLearn main.cpp
                     template_polices_about.cpp)
 
 add_subdirectory(gTest)
+add_subdirectory(buildlib)
