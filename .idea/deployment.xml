@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="centos-128 (01550342-fd30-4813-a2d8-dfadf248e81e)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu-130 (8d18508f-6e0c-4fa9-b45f-e397e8d6712f)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.0xCz2BRQgP" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-ubuntu-130" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-ubuntu-130" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

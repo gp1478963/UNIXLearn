@@ -1,0 +1,12 @@
+//
+// Created by gp147 on 2022/1/1.
+//
+
+#ifndef UNIXLEARN_TEMPLATE_POLICES_ABOUT_H
+#define UNIXLEARN_TEMPLATE_POLICES_ABOUT_H
+#include "bits/stdc++.h"
+
+
+
+
+#endif //UNIXLEARN_TEMPLATE_POLICES_ABOUT_H
