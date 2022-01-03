@@ -105,6 +105,9 @@ endif(USER_LIBRARES)# end if USER_LIBRARES
 
 #-------------------------------------------------------------------------------
 
+#系统平台相关
+
+message(STATUS "this is a ${CMAKE_SYSTEM_NAME} os" )
 
 
 
