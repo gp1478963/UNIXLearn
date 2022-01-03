@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/use_python.dir/use_python_test.h.cpp.o  -o use_python  /usr/lib/x86_64-linux-gnu/libpython3.8.so 

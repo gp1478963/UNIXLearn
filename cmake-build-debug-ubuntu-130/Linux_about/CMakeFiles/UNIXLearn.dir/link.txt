@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/UNIXLearn.dir/main.cpp.o CMakeFiles/UNIXLearn.dir/unix_interface_test.cpp.o CMakeFiles/UNIXLearn.dir/template_polices_about.cpp.o  -o UNIXLearn 
